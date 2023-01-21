@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Josephsilvak_;Programador+Full-Stack_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Josephslv_;Programador+Full-Stack_)](https://git.io/typing-svg)
 
-  <a href="https://github.com/josephsilvak">
-  <img height="140.5em" src="https://github-readme-stats.vercel.app/api?username=josephsilvak&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josephsilvak&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/josephslv">
+  <img height="140.5em" src="https://github-readme-stats.vercel.app/api?username=josephslv&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="140.5em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josephslv&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
